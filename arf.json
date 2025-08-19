@@ -1,0 +1,22 @@
+{
+    "name": "Base",
+    "type": "folder",
+    "children": [
+        {
+            "name": "Sub folder",
+            "type": "folder",
+            "children": [
+                {
+                    "name": "Ressource",
+                    "type": "url",
+                    "url": "https://example.com"
+                }
+            ]
+        },
+        {
+            "name": "Ressource",
+            "type": "url",
+            "url": "https://example.com"
+        }
+    ]
+}
